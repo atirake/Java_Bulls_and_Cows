@@ -1,4 +1,4 @@
-package bullscows;
+package bullscows.bullscows;
 
 import java.util.*;
 
